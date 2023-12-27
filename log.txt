@@ -1,0 +1,8 @@
+* 755001d (main) Git 3 V2
+| * 110d368 (HEAD -> login) Login
+|/  
+* 4f97134 Este es mi quinto commit
+* 977ed90 (tag: clase_1) Se añade el .gitignore
+* 9635630 se actualiza el texto del print
+* bb55848 Este es mi segundo commit
+* 8704763 Este es mi primer commit
